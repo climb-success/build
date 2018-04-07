@@ -891,7 +891,7 @@ var TeacherComponent = /** @class */ (function () {
 var httpOptions = {
     headers: new __WEBPACK_IMPORTED_MODULE_0__angular_common_http__["c" /* HttpHeaders */]({ 'Content-Type': 'application/json' })
 };
-var URL = 'http://localhost:8080/success';
+var URL = 'http://39.104.60.7:8080/success';
 //学校API
 var SearchSchoolProvinceURL = URL + '/school/searchSchool?province=';
 var SearchProfessionalSchoolURL = URL + '/school/getSchool?id=';
